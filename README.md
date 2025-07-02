@@ -38,3 +38,13 @@ This is a simple chatbot that answers customer queries using a local semantic se
 
 Special thanks to JayPatel for the BankFAQ.csv.
 https://github.com/MrJay10
+
+## Screenshots!
+
+When there is high similarity between the query and Question
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+When there is low similarity (Combined) is used
+![alt text](image-3.png)
